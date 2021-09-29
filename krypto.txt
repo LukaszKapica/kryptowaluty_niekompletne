@@ -1,0 +1,12 @@
+Bitcoin
+4500
+500
+Monero
+500
+-20
+Ethereum
+3000
+100
+Cardano
+2
+-1
